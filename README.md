@@ -12,3 +12,8 @@ Try to apply on haskell, I believe that haskell can have methods that will accel
 ok, so first probably, I need to choose one path, re-do the alogorithm using haskell or re-do already triyng to implement something that could help the solution
 
 At the end, I must do some unit tests, for it I'll need to understand how unit tests works on haskell
+
+dev blog history
+
+Started on https://www.haskell.org/get-started/
+Installed everything and checked some prompt commands with haskell
