@@ -18,3 +18,18 @@ dev blog history
 
 Started on https://www.haskell.org/get-started/
 Installed everything and checked some prompt commands with haskell
+
+## Resumo sobre haskell
+Haskell é uma linguagem de programação funcional pura e fortemente tipada, baseada no cálculo lambda, criada em 1987 e nomeada em homenagem ao lógico Haskell Curry. Em Haskell, funções sempre produzem o mesmo resultado para os mesmos argumentos, e não há efeitos colaterais — o código não modifica dados externos.
+
+Ela é declarativa, com programas compostos por expressões que são avaliadas de forma preguiçosa (lazy evaluation), ou seja, só quando necessário, o que pode gerar ganhos de desempenho, mas também uso imprevisível de memória. Todos os dados são imutáveis, e a linguagem utiliza um coletor de lixo para gerenciar memória.
+
+Haskell é usada em aplicações como o Hasura, filtros de spam do Facebook e compiladores (como Elm e PureScript).
+
+A linguagem permite inferência de tipos e funções de primeira classe, que podem ser passadas como argumentos. Para lidar com entradas e saídas (IO) — que geram efeitos colaterais — Haskell utiliza monads, uma abstração matemática que encapsula e controla esses efeitos.
+
+O código pode ser executado no interpretador interativo ou compilado usando o Glasgow Haskell Compiler (GHC).
+
+Sources:
+https://www.youtube.com/watch?v=Qa8IfEeBJqk&t=22s
+https://www.youtube.com/watch?v=gK0hMxJhqwM
