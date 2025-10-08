@@ -1,5 +1,6 @@
 # kata-haskel
 
+## BrainStorm
 Objective of this study is to understand the article 
 https://www.geeksforgeeks.org/dsa/generate-bitonic-sequence-of-length-n-from-integers-in-a-given-range/
 
